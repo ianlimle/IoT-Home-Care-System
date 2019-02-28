@@ -1,0 +1,5 @@
+rpi2:
+    - sensor.flame
+    - sensor.flow_rate
+    - sensor.gas
+    - sensor.pot
